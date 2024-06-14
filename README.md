@@ -7,3 +7,6 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 Thank you to the team at [Next.js](https://x.com/nextjs)
 
 Link to the completed web application: https://nextjs-dashboard-gordondhuang.vercel.app/
+
+Username: user@nextmail.com
+Password: 123456
